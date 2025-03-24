@@ -8,34 +8,34 @@
 </p> 
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
-<img src="./img/LogoBI.jpg" alt="Machine Learning Specialist Logo" width="200"/>
+<img src="./img/LogoBI.jpg" alt="Power BI Analyst Logo" width="200"/>
 
 # Formação Power BI Analyst
 
-Este repositório contém materiais e exercícios relacionados à formação de Machine Learning Specialist oferecida pela [DIO](https://web.dio.me/track/formacao-machine-learning-specialist?tab=about).
+Este repositório contém materiais e exercícios relacionados à formação de Power BI Analyst oferecida pela [DIO](https://web.dio.me/track/formacao-power-bi-analyst).
 
 ## Descrição
 
-A formação de Machine Learning Specialist tem como objetivo capacitar profissionais para atuar na área de Machine Learning, abordando desde os conceitos básicos até técnicas avançadas e aplicações práticas.
+A formação de Power BI Analyst tem como objetivo capacitar profissionais para atuar na área de análise de dados, utilizando o Power BI para criar relatórios e dashboards interativos, além de explorar técnicas de modelagem de dados e visualização.
 
 ## Conteúdo
 
-- Introdução ao Machine Learning
-- Pré-processamento de Dados
-- Modelos de Regressão
-- Modelos de Classificação
-- Redes Neurais
-- Aprendizado Profundo (Deep Learning)
+- Introdução ao Power BI
+- Conexão com Fontes de Dados
+- Modelagem de Dados
+- Criação de Relatórios e Dashboards
+- Visualizações Avançadas
+- Publicação e Compartilhamento
 - Projetos Práticos
-  - [Redução de Dimensionalidade em Imagens para Redes Neurais](https://github.com/vicssb/Dimensionality-Reduction-in-Images-for-Neural-Networks)
-  - [Treinamento de Redes Neurais com Transfer Learning](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/leiame.md)
-  - [Cálculo de Métricas de Avaliação de Aprendizado](https://github.com/vicssb/calculation-of-learning-evaluation-metrics/blob/main/leiame.md)
-  
+  - [Análise de Vendas com Power BI](https://github.com/vicssb/Sales-Analysis-with-Power-BI)
+  - [Dashboard de Indicadores de Desempenho](https://github.com/vicssb/Performance-Indicators-Dashboard)
+  - [Automatização de Relatórios com Power BI](https://github.com/vicssb/Automating-Reports-with-Power-BI)
+
 ## Pré-requisitos
 
-- Conhecimentos básicos de programação
-- Noções de estatística e probabilidade
-- Familiaridade com Python
+- Conhecimentos básicos de Excel
+- Noções de banco de dados e SQL
+- Familiaridade com ferramentas de visualização de dados
 
 ## Como Utilizar
 
@@ -77,5 +77,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 <p>Por favor, siga o github e junte-se a nós!
 Obrigado pela visita e boa codificação!</p>
+````
 
 

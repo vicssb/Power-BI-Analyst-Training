@@ -1,8 +1,8 @@
 # Criação do readme.md inicial
 
-- crie um readme.md com base em: https://web.dio.me/track/formacao-machine-learning-specialist?tab=about
+- Altere o readme.md com base em: https://web.dio.me/track/formacao-power-bi-analyst
 
-- traduza o texto para o Inglês
+- traduza o texto de leiame.md para o Inglês
 
 - coloque as imagens ./img/dio.png e LogoMLS.jpg
 

@@ -1,42 +1,41 @@
-<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
 <p>
   <div align="right"> 
-<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brazil" width="30"/> </a>
 </div>
   <H1><b> Victor Sérgio Silva Barros </b> </H1>
   
 </p> 
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
-<img src="./img/LogoMLS.jpg" alt="Machine Learning Specialist Logo" width="200"/>
+<img src="./img/LogoBI.jpg" alt="Power BI Analyst Logo" width="200"/>
 
-# Machine Learning Specialist Training
+# Power BI Analyst Training
 
-This repository contains materials and exercises related to the Machine Learning Specialist training offered by [DIO](https://web.dio.me/track/formacao-machine-learning-specialist?tab=about).
+This repository contains materials and exercises related to the Power BI Analyst training offered by [DIO](https://web.dio.me/track/formacao-power-bi-analyst).
 
 ## Description
 
-The Machine Learning Specialist training aims to train professionals to work in the field of Machine Learning, covering everything from basic concepts to advanced techniques and practical applications.
+The Power BI Analyst training aims to prepare professionals to work in the field of data analysis, using Power BI to create interactive reports and dashboards, as well as exploring data modeling and visualization techniques.
 
 ## Content
 
-- Introduction to Machine Learning
-- Data Preprocessing
-- Regression Models
-- Classification Models
-- Neural Networks
-- Deep Learning
+- Introduction to Power BI
+- Connecting to Data Sources
+- Data Modeling
+- Creating Reports and Dashboards
+- Advanced Visualizations
+- Publishing and Sharing
 - Practical Projects
-  - [Dimensionality Reduction in Images for Neural Networks](https://github.com/vicssb/Dimensionality-Reduction-in-Images-for-Neural-Networks)
-  - [Training Neural Networks with Transfer Learning](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning)
-  - [Calculation of learning evaluation metrics](https://github.com/vicssb/calculation-of-learning-evaluation-metrics)
-
+  - [Sales Analysis with Power BI](https://github.com/vicssb/Sales-Analysis-with-Power-BI)
+  - [Performance Indicators Dashboard](https://github.com/vicssb/Performance-Indicators-Dashboard)
+  - [Automating Reports with Power BI](https://github.com/vicssb/Automating-Reports-with-Power-BI)
 
 ## Prerequisites
 
-- Basic programming knowledge
-- Basic understanding of statistics and probability
-- Familiarity with Python
+- Basic knowledge of Excel
+- Basic understanding of databases and SQL
+- Familiarity with data visualization tools
 
 ## How to Use
 
