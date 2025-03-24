@@ -30,7 +30,7 @@ The Power BI Analyst training aims to prepare professionals to work in the field
 - Practical Projects
   - [Sales Analysis with Power BI](https://github.com/vicssb/Sales-Analysis-with-Power-BI)
   - [Performance Indicators Dashboard](https://github.com/vicssb/Performance-Indicators-Dashboard)
-  - [Automating Reports with Power BI](https://github.com/vicssb/Automating-Reports-with-Power-BI)
+  - [Automating Reports with Power BI](https://github.com/vicssb/Relatorio-de-Vendas-com-Power-BI)
 
 ## Prerequisites
 

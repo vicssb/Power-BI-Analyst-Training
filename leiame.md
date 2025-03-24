@@ -30,7 +30,7 @@ A formação de Power BI Analyst tem como objetivo capacitar profissionais para 
 - Projetos Práticos
   - [Análise de Vendas com Power BI](https://github.com/vicssb/Sales-Analysis-with-Power-BI)
   - [Dashboard de Indicadores de Desempenho](https://github.com/vicssb/Performance-Indicators-Dashboard)
-  - [Automatização de Relatórios com Power BI](https://github.com/vicssb/Automating-Reports-with-Power-BI)
+  - [Automatização de Relatórios com Power BI](https://github.com/vicssb/Relatorio-de-Vendas-com-Power-BI)
 
 ## Pré-requisitos
 
