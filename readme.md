@@ -31,6 +31,13 @@ The Power BI Analyst training aims to prepare professionals to work in the field
   - [Sales Analysis with Power BI](https://github.com/vicssb/Sales-Analysis-with-Power-BI)
   - [Performance Indicators Dashboard](https://github.com/vicssb/Performance-Indicators-Dashboard)
   - [Automating Reports with Power BI](https://github.com/vicssb/Relatorio-de-Vendas-com-Power-BI)
+  - [Corporate dashboard with MySQL and Azure integration](https://github.com/vicssb/Corporate-dashboard-with-MySQL-and-Azure-integration)
+  - [Sales Dashboard with Power BI using Star Schema](https://github.com/vicssb/Sales-Dashboard-with-Power-BI-using-Star-Schema)
+  - [Data Modeling and Transformation with DAX with Power BI](https://github.com/vicssb/Data-Modeling-and-Transformation-with-DAX-with-Power-BI)
+  - [Dynamic Report using Parameters](https://github.com/vicssb/Dynamic-Report-using-Parameters)
+  - [Data Analytics Project with Power BI](https://github.com/vicssb/Data-Analytics-Project-with-Power-BI)
+  - [Dynamic Sales and Profit Report with Data Analytics with Power BI](https://github.com/vicssb/Dynamic-Sales-and-Profit-Report-with-Data-Analytics-with-Power-BI)
+
 
 ## Prerequisites
 
