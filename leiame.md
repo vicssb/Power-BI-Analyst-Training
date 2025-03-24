@@ -9,6 +9,7 @@
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/LogoBI.jpg" alt="Power BI Analyst Logo" width="200"/>
+<img src="./img/LogoBI.jpeg" alt="Power BI Logo" width="200"/>
 
 # Formação Power BI Analyst
 
